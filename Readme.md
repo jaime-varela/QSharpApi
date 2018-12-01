@@ -47,3 +47,7 @@ sudo docker build -t aspnetapp .
 sudo docker run -p 80:80 --name myapp aspnetapp
 
 Remove "sudo" if not on linux.
+
+### Next steps
+
+I'm looking to add more functionality in the API.  If you have any suggestions, please let me know.
