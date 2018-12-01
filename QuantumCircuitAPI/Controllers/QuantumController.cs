@@ -45,6 +45,7 @@ namespace MySiteAngular.Controllers
         }
 
         //api/Quantum/CalculateCircuit
+        // returns a boolean array which is the result of measuring the qubits labeled as 'true' in the measurement array
         [HttpPost("[action]")]
         public async Task<ActionResult< List<int> > > CalculateCircuit([FromBody] QCircuitScaffold circuit)
         {

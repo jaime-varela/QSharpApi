@@ -35,15 +35,32 @@ Where the Hadammard gate is applied at the first time step and a CNot gate at th
 
 And the negative values are the daggers of the corresponding operation.
 
+### measureArray and Output of api/CalculateCircuit
+
+There is a one-to-one correspondence to the gate-matrix qubits and the measure array.  For example
+
+measureArray = [true,true,false]
+
+states that the 0th and 1st qubit (topmost and middle) are measured while the last qubit (bottom) is not 
+measured.
+
+Given a correct quantum circuit in the POST body the result of api/CalculateCircuit is a integer
+array whose values are either zero or one.  The values of the array are the result of the qubit array measurements.  For example if the measureArray is as described above, one would get a result of the form
+
+[0,1]
+
+which states that the top qubit measured 0 and the middle qubit measured 1.
+
 ## Installation
 
 cloning the source and running:
 
-cd QuantumCircuitAPI && dotnet run
+cd QSharpApi/QuantumCircuitAPI && dotnet run
 
 should work if you have the latest dotnet sdk version.  Alternatively you can run the API in a docker container.  A docker file is provided.  For a basic run one can run the application using the following commands (assuming docker is installed):
 
 sudo docker build -t aspnetapp .
+
 sudo docker run -p 80:80 --name myapp aspnetapp
 
 Remove "sudo" if not on linux.
