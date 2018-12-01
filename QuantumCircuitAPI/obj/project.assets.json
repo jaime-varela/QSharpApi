@@ -4445,9 +4445,9 @@
       },
       "QuantumCircuitScaffold/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "Microsoft.NETCore.App": "2.1.0",
+          "Microsoft.NETCore.App": "2.0.0",
           "Microsoft.Quantum.Canon": "0.2.1806.3001-preview",
           "Microsoft.Quantum.Development.Kit": "0.2.1806.3001-preview"
         },

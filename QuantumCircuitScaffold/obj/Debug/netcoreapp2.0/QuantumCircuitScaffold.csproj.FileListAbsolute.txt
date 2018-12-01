@@ -20,3 +20,14 @@
 /home/jaime/Dropbox/software/QuantumCircuitScaffold/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.AssemblyInfo.cs
 /home/jaime/Dropbox/software/QuantumCircuitScaffold/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.dll
 /home/jaime/Dropbox/software/QuantumCircuitScaffold/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.pdb
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/bin/Debug/netcoreapp2.0/QuantumCircuitScaffold.deps.json
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/bin/Debug/netcoreapp2.0/QuantumCircuitScaffold.runtimeconfig.json
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/bin/Debug/netcoreapp2.0/QuantumCircuitScaffold.runtimeconfig.dev.json
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/bin/Debug/netcoreapp2.0/QuantumCircuitScaffold.dll
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/bin/Debug/netcoreapp2.0/QuantumCircuitScaffold.pdb
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.csprojAssemblyReference.cache
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.csproj.CoreCompileInputs.cache
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.AssemblyInfoInputs.cache
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.AssemblyInfo.cs
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.dll
+/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/obj/Debug/netcoreapp2.0/QuantumCircuitScaffold.pdb
