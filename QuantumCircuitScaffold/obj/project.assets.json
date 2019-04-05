@@ -254,10 +254,11 @@
   },
   "libraries": {
     "Microsoft.NETCore.App/2.0.0": {
-      "sha512": "8Lrz5RgmfIUMtpTmGG1Z+nVlCr14bFco/aQdiNYfb7uys37vQ6dVtds9xPIFANVyf6HFePhD9nGmqFcfv5eKMQ==",
+      "sha512": "/mzXF+UtZef+VpzzN88EpvFq5U6z4rj54ZMq/J968H6pcvyLOmcupmTRpJ3CJm8ILoCGh9WI7qpDdiKtuzswrQ==",
       "type": "package",
       "path": "microsoft.netcore.app/2.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "Microsoft.NETCore.App.versions.txt",
@@ -533,10 +534,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.0.0": {
-      "sha512": "dYQNVWNBsO9LldqAyJTt/wYUq2BScXq3ENBaNUjELS3sT53mwrgyPpmoLHsE7H10RzYOHEl5G0sg/jpZGlIAzA==",
+      "sha512": "L4GGkcI/Mxl8PKLRpFdGmLb5oI8sGIR05bDTGkzCoamAjdUl1Zhkov2swjEsZvKYT8kkdiz39LtwyGYuCJxm1A==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -546,10 +548,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
-      "sha512": "uYoVFwvMIp9KtOjW6huBedoBP+50Pny0aIrmJGPoaHJ9anAtrvCjS+iKFR5MIS8amJRKsLc3YEtpT/AYfYmIdA==",
+      "sha512": "rm7mMn0A93fwyAwVhbyOCcPuu2hZNL0A0dAur9sNG9pEkONPfCEQeF7m2mC8KpqZO0Ol6tpV5J0AF3HTXT3GXA==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -559,10 +562,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
-      "sha512": "HYXxywd3EaAw1M2K5ox6oUu0NgG90oDIpyq70IBvOf2keNuMJWYTWZUAoTlpv8E0Ks09DA+gczoA64tCdII5Xw==",
+      "sha512": "uBbjpeSrwsaTCADZCzRk+3aBzNnMqkC4zftJWBsL+Zk+8u+W+/lMb2thM5Y4hiVrv1YQg9t6dKldXzOKkY+pQw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -587,10 +591,11 @@
       ]
     },
     "Microsoft.Quantum.Canon/0.2.1806.3001-preview": {
-      "sha512": "PNGTzAeu+D4afAiZh5lhU8vU9OyQr8s6+mldrX9ok6mEyFXLBZ/5m+yxwEN+25UBYoK5hA9Mpfpf4WMRx5zHyA==",
+      "sha512": "YQDGfk4vO2BAWgnsYRXXFNg5PimLY+L/NWo0eErrr6GQ2K15cMKOXl1/WU8v80YRQD6Pzv9UlBdcVz7C4Vltsw==",
       "type": "package",
       "path": "microsoft.quantum.canon/0.2.1806.3001-preview",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Quantum.Canon.deps.json",
         "lib/netstandard2.0/Microsoft.Quantum.Canon.dll",
@@ -600,10 +605,12 @@
       ]
     },
     "Microsoft.Quantum.Development.Kit/0.2.1806.3001-preview": {
-      "sha512": "uMDFyRKQx1TGVB34OVraB+c4aX6KYRh42PXsuiYc7NqwyWZ/RpkxPHEqWTgSe2J9pF0MUCB3NuI8e48e0AvJWQ==",
+      "sha512": "I0YSFSwV787zRiPbiAceVsJF4jSe4/BjVvM15K+793xcqoPvvu5M4G6HGEI6Cq7MQqS2zpI3jXA+1YCaI0sFkQ==",
       "type": "package",
       "path": "microsoft.quantum.development.kit/0.2.1806.3001-preview",
+      "hasTools": true,
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/Microsoft.Quantum.Development.Kit.props",
         "build/Microsoft.Quantum.Development.Kit.targets",
@@ -658,10 +665,11 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "sn4JwjEN5iNfqc0bd0Qje5oBZBB9wyuNn4GkQvEzfKVnZ3QH0HHoN9exxydlJGptiCMVdAZu7At9TNj0r8Z0yg==",
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -801,11 +809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/QuantumCircuitScaffold.csproj",
+      "projectUniqueName": "/home/jaime/Dropbox/software/QCIRCUITS/QSharpApi/QuantumCircuitScaffold/QuantumCircuitScaffold.csproj",
       "projectName": "QuantumCircuitScaffold",
-      "projectPath": "/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/QuantumCircuitScaffold.csproj",
+      "projectPath": "/home/jaime/Dropbox/software/QCIRCUITS/QSharpApi/QuantumCircuitScaffold/QuantumCircuitScaffold.csproj",
       "packagesPath": "/home/jaime/.nuget/packages/",
-      "outputPath": "/home/jaime/Dropbox/software/QSharpApi/QuantumCircuitScaffold/obj/",
+      "outputPath": "/home/jaime/Dropbox/software/QCIRCUITS/QSharpApi/QuantumCircuitScaffold/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
